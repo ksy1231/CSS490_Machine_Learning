@@ -1,0 +1,1 @@
+How To Run “Titanic.py” in IDLE:	Put dataset and Python files together in the same folder and run the Python file.How To Run “Titanic.py” by using jupyter notebook:	Save train.csv and test.csv to the datasets/titanic directory and run jupyer notebook.
